@@ -1,4 +1,4 @@
-# Program Calculation Project ([Project's statement](http://wiki.di.uminho.pt/twiki/pub/Education/CP1819/MaterialPedagogico/cp1819t.pdf))
+# Program Calculation Project ([Project's assignment](http://wiki.di.uminho.pt/twiki/pub/Education/CP1819/MaterialPedagogico/cp1819t.pdf))
 
 ## Collaborators
 
